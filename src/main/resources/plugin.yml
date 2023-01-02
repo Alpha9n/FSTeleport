@@ -1,0 +1,6 @@
+name: FSTeleport
+version: '${version}'
+main: pro.freeserver.plugin.alphakun.fsteleport.FSTeleport
+api-version: 1.19
+authors: [ Alpha9n ]
+description: テレポート系のコマンドを実装しています
